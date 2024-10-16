@@ -1,4 +1,5 @@
-# FineTuned_LLM_Unsloth
+# Fine_tuning_Example with Mistral_7b_Text_Completion_Raw_Text_training full example
+
 This community notebook demonstrates fine-tuning a large language model for text completion using the Unsloth library and Hugging Face Transformer libraary. It covers model loading, LoRA setup, data preparation, training, and inference, enabling the generation of creative and engaging text. 
 
 ## Usage
